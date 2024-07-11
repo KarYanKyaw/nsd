@@ -27693,6 +27693,3 @@ const Tj = () => {
 Sd.createRoot(document.getElementById("root")).render(
   p.jsx(Pb, { children: p.jsx(Ij, {}) })
 );
-window.addEventListener("load", () => {
-  console.clear();
-});
